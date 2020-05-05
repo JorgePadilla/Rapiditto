@@ -1,4 +1,4 @@
-package com.iotecksolutions.todoapp;
+package com.taphn.cossa;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
