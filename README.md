@@ -1,6 +1,6 @@
-# Boilerplate Project
+# Rapiditto
 
-A boilerplate project created in flutter using MobX and Provider.
+Rapiditto is a flutter mobile app where customers can request food from restaurants. 
 
 ## Getting Started
 
