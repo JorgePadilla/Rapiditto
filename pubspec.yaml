@@ -22,6 +22,7 @@ dependencies:
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
+  firebase_auth: ^0.11.1+7
   cupertino_icons: ^0.1.3
 
   # The following adds the shared pref as a dependency in your application
@@ -55,7 +56,7 @@ dependencies:
   dio: 3.0.8
 
   # A flexible widget for user notification.
-  flushbar: ^1.9.1
+  flushbar: 1.9.1
 
   # Material Dialog
   material_dialog: ^0.0.9

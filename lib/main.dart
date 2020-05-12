@@ -17,6 +17,7 @@ import 'package:flutter_mobx/flutter_mobx.dart';
 import 'package:inject/inject.dart';
 import 'package:provider/provider.dart';
 
+
 // global instance for app component
 AppComponent appComponent;
 
